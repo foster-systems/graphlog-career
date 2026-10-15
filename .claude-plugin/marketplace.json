@@ -1,0 +1,7 @@
+{
+  "name": "graphlog",
+  "owner": { "name": "Graphlog", "email": "support@graphlog.ai" },
+  "plugins": [
+    { "name": "graphlog-career", "source": "./" }
+  ]
+}

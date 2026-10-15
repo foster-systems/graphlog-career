@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "graphlog-career": { "type": "http", "url": "https://career.graphlog.ai/mcp" }
+  }
+}
