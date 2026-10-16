@@ -48,8 +48,9 @@ To update the skill later, download the file again and upload it the same way.
 
 ## Start
 
-A new account needs a subscription first: your assistant's first answer gives
-you the link to subscribe. Pay at Link's checkout, then carry on.
+A new account subscribes while connecting: after your email code, **Continue
+to payment**, pay at Link's checkout, then **You're set**. A free code, if you
+were given one, goes in its field on the first page instead.
 
 In a new chat, attach your CVs or LinkedIn profile and say
 **"Create my career record."** Your assistant asks a few questions, stores
