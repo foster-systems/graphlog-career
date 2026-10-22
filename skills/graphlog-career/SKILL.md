@@ -1,6 +1,6 @@
 ---
 name: graphlog-career
-description: Works on the Graphlog Career connector's record. Use for questions about their career, building it from CVs or LinkedIn, weekly check-ins, and CVs or cover letters for a job. Needs the connector.
+description: Works on the Graphlog Career connector's record. Use for questions about their career, building it from CVs or LinkedIn, weekly check-ins, and any CV, letter or text about it. Needs the connector.
 license: Apache-2.0
 ---
 
@@ -58,15 +58,26 @@ out rather than filled, because every stored word reads as a fact in
 everything written from it.
 
 **What is said or written from the record says what it holds, as it holds
-it**: an answer, a line of recognition, a CV or a letter. Each fact keeps its
-actor, its verb, its object and its count as stored: who did it, what they
-did, to whom or what, how many and how often, and no frequency where the
-record gives none. A verb cut short or swapped for a near one is a new fact:
-an activity turns into a relation the record never stated, a reporting line or
-an ownership. A fact stays as strong, as wide, as finished and as current as
-stored, at the time the record gives it: nothing past is carried into the
+it**: an answer, a line of recognition, a CV, a letter or any text drafted
+about them. Each fact keeps its actor, its verb, its object and its count as
+stored: who did it, what they did, to whom or what, how many and how often,
+and no frequency where the record gives none. Text drafted about them has them
+as the subject of every line that names none, so the line that carries a
+team's result names the team and their part, the team as the subject of the
+outcome: a reader takes each line, bullet or sentence as a claim of its own,
+and a team's outcome on a line of theirs, or told as what their part made,
+reads as theirs, though how much of it their part made is unknown. A verb cut
+short or swapped for a near one is a new fact: an activity turns into a
+relation the record never stated, a reporting line or an ownership. A fact
+stays as strong, as wide, as finished and as current as stored, where and when the record gives it: nothing past is carried into the
 present, and a skill stored only under work that ended is past and named with
-that work, in a skills list too. Time is told as the record holds it: every
+that work, in a skills list too. A summing-up holds only what each part it
+spans holds: a place, field or title from one part of their career, said of
+the whole, is a claim the rest never made. A figure keeps the windows and
+baseline it was measured over, and a hedge they put on it stays, on the line
+that carries it: cut from either, the figure reads as settled and theirs. A
+line too short to hold a figure's owner, windows and hedge names the work and
+leaves the figure out. Time is told as the record holds it: every
 date as stored, every length as `experience` counts it, for a role or in total.
 Where it counts none, such as the time at one employer across several roles,
 each role's dates and figure are the answer, to a question for one number
@@ -351,12 +362,9 @@ record pays off.
   confirmed gap in a core requirement is addressed plainly in the documents,
   as wide as they confirmed it, not hidden. Nothing is promised on their
   behalf: no availability, start date, relocation or salary.
-- In both, every sentence keeps the owner the record gives: the sentence that
-  states a team's result names the team and their part, in the letter as in
-  the CV. A reader takes each sentence as a claim of its own: a team's result
-  alone says nothing of them, and a later sentence naming the split does not
-  take back an "I" before it. A project they worked in is told through what
-  they did in it. Two pieces of work are joined, as one project, one employer,
+- In both, every sentence keeps the owner the record gives, and a later
+  sentence naming the split does not take back an "I" before it. A project
+  they worked in is told through what they did in it. Two pieces of work are joined, as one project, one employer,
   one leading to the next or one pattern, only where the record or they join
   them; otherwise each stands on its own. A letter argues in one voice along one thread, and that pulls a
   team's work into "I" and separate work into one story.
@@ -405,9 +413,10 @@ final for that posting.
 
 Read each sentence of both drafts, summary and skills list included, against
 the record and their answers. Each sentence about them rests on an entry or an
-answer it can point to, and keeps its owner, verb and object, its time, tense
-and frequency, its scope and limits, its why, what it says they know, and any
-link to other work only as that entry gives it. Each sentence that carries a
+answer it can point to, and keeps its owner, verb and object, its place, time,
+tense and frequency, a figure's windows and hedge, its scope and limits, its
+why, what it says they know, and any link to other work only as that entry
+gives it. Each sentence that carries a
 result, in the letter as in the CV, is read against that result's `whose`: a
 team's names the team and their part in that one sentence. A sentence that
 rests on none, a summing-up of them, a bridge to the posting or a reason, is
