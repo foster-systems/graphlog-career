@@ -76,8 +76,11 @@ spans holds: a place, field or title from one part of their career, said of
 the whole, is a claim the rest never made. A figure keeps the windows and
 baseline it was measured over, and a hedge they put on it stays, on the line
 that carries it: cut from either, the figure reads as settled and theirs. A
-line too short to hold a figure's owner, windows and hedge names the work and
-leaves the figure out. Time is told as the record holds it: every
+figure or a state the record gives as of a date is true at that date: the line
+that carries it says that date or puts it in the past, because text is read,
+and read out, without the notes around it, and in the present it claims today
+what nobody has measured since. A line too short to hold a figure's owner,
+windows, date and hedge names the work and leaves the figure out. Time is told as the record holds it: every
 date as stored, every length as `experience` counts it, for a role or in total.
 Where it counts none, such as the time at one employer across several roles,
 each role's dates and figure are the answer, to a question for one number
@@ -414,7 +417,7 @@ final for that posting.
 Read each sentence of both drafts, summary and skills list included, against
 the record and their answers. Each sentence about them rests on an entry or an
 answer it can point to, and keeps its owner, verb and object, its place, time,
-tense and frequency, a figure's windows and hedge, its scope and limits, its
+tense and frequency, a figure's windows, date and hedge, its scope and limits, its
 why, what it says they know, and any link to other work only as that entry
 gives it. Each sentence that carries a
 result, in the letter as in the CV, is read against that result's `whose`: a
