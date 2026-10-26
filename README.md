@@ -10,9 +10,9 @@ Graphlog Career comes in two parts:
 
 - **The connector** keeps your career record and gives your assistant the
   tools to read and update it. It works on its own.
-- **The skill**, in this repository, teaches your assistant how to use those
-  tools well: how to build your record, run your weekly check-in and tailor
-  your CV. With it, you get the best out of Graphlog.
+- **The skill**, in this repository, tells your assistant what a good
+  record, weekly check-in and tailored CV look like. With it, you get the
+  best out of Graphlog.
 
 ## Install in Claude
 
@@ -46,6 +46,9 @@ steps for your plan; it takes about five minutes and no technical knowledge.
 
 To update the skill later, download the file again and upload it the same way.
 
+If **Customize → Skills** shows no **+** or no **Upload a skill** on your
+plan, skip steps 2 and 3: the connector works on its own, without the skill.
+
 ## Start
 
 A new account subscribes while connecting: after your email code, **Continue
@@ -53,15 +56,15 @@ to payment**, pay at Link's checkout, then **You're set**. A free code, if you
 were given one, goes in its field on the first page instead.
 
 In a new chat, attach your CVs or LinkedIn profile and say
-**"Create my career record."** Your assistant asks a few questions, stores
-nothing without your yes, and shows you your whole career on one page.
+**"Create my career record."** Your assistant builds it with you, stores
+only what you gave or agreed to, and shows you your whole career on one page.
 
 Then, any time: paste a job posting and say **"Tailor my CV for this."**
 
 ## What it runs
 
-The skill is plain-text instructions: no code, no scripts. For tailoring it
-has your assistant open the job link you give and look up the company. The
+The skill is plain text: no code, no scripts. For tailoring, your assistant
+opens the job link you give and looks up the company. The
 connector is the Graphlog Career server at `https://career.graphlog.ai/mcp`,
 which stores your career record in the EU.
 It never calls an AI model; your assistant does all the thinking. Read the

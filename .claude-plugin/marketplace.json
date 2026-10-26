@@ -1,6 +1,6 @@
 {
   "name": "graphlog",
-  "description": "Graphlog Career: the connector that keeps your career record and the skill that teaches your assistant to build it, keep it current and tailor CVs from it.",
+  "description": "Graphlog Career: the connector that keeps your career record and the skill that tells your assistant what a good record, weekly check-in and tailored CV look like.",
   "owner": { "name": "Graphlog", "email": "support@graphlog.ai" },
   "plugins": [
     { "name": "graphlog-career", "source": "./" }
