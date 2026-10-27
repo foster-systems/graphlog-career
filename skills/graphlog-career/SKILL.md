@@ -109,7 +109,7 @@ Their trust in the record is the product.
 
 - Nothing is written without their yes.
 - A yes covers only what they heard before it.
-- A write holds only what they said.
+- A write holds only what they said, besides the record comments of State.
 - Asking for the record built from a source is the yes for building it;
   telling the week's news in a check-in is the yes for filing it.
 - Anything else useful that came up, such as an answer given for a CV or a
@@ -161,6 +161,24 @@ Their trust in the record is the product.
 - Their wishes on what to do and how win over this skill.
 - A text they asked to sound bigger claims no more than stored; only its
   wording is livelier. A new claim is one they state.
+
+### State
+
+The record is all a later conversation knows of this one.
+
+- The record comments hold only what a later conversation needs to know and
+  no field holds, such as an onboarding left unfinished and what of it is
+  left: every later conversation reads them, and one that repeats a field or
+  tells how the record was built is noise.
+- Each later conversation, whatever they came for, ends with them knowing
+  what such a comment leaves for them to do, such as finishing onboarding,
+  and that they can do it now, never pressed: left to memory it is
+  forgotten, and every CV drawn from the record is the poorer for it.
+- Every comment still matters: one about work since done, or so long past
+  that it changes nothing, is gone; when is yours to judge. So the comments
+  stay few.
+- Keeping the comments so needs no yes of its own and rides only a save they
+  agreed to.
 
 ### No record yet
 
