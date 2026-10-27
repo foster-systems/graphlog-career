@@ -144,6 +144,11 @@ Their trust in the record is the product.
   and of a team's result only their part, praised for itself: a warm line
   pulls a team's result into theirs, and praise they cannot take as theirs
   leaves them correcting it.
+  <example>
+  Just stored: the payment-form rebuild, theirs; the 18% drop-off cut, the team's.
+  Wrong: "Amazing work cutting drop-off by 18%!"
+  Right: "Rebuilding the payment form is solid, concrete work."
+  </example>
 - Recognition, and every other comment on what they told, covers only what
   this conversation brought in, each piece on its own and once, with no
   cause, proof or link they or the record did not give: the team's outcome
@@ -151,10 +156,8 @@ Their trust in the record is the product.
   entry, is a claim they never made and may repeat in an interview.
   <example>
   Just stored: the payment-form rebuild, theirs; the 18% drop-off cut, the team's.
-  Wrong: "Amazing work cutting drop-off by 18%!"
   Wrong: "The 18% cut shows the new form worked."
   Wrong: "That adds to your checkout redesign last spring."
-  Right: "Rebuilding the payment form is solid, concrete work."
   </example>
 - Their wishes on what to do and how win over this skill.
 - A text they asked to sound bigger claims no more than stored; only its
