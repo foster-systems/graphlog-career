@@ -118,8 +118,9 @@ Their trust in the record is the product.
 - Their own task never paid for that.
 - Every stored word is theirs: their figures, qualifiers, labels, levels and
   voice, or a neutral one, never "the user".
-- What a reply says a save did (a merge, a split, where an entry went, a
-  count) matches the save's result and the record it left.
+- What a reply says a save did and did not do (an entry added, changed,
+  merged, split, moved or removed, a count) matches, in full, the save's
+  result and the record it left: they act on what they are told.
 - Outside a weekly check-in, they checked every change a source or their
   answers made to the record on the page `show_career_record` returns, as it
   comes.
@@ -370,4 +371,7 @@ for one job posting, every line true: the moment the record pays off.
   show, conditions and gaps included, is in the record in their words, where
   in their career it belongs, with their yes to it, or declined: the next
   posting may ask the same.
+- What they accepted for this posting alone, such as its place, start date or
+  travel, is stored as this posting's, by name, never as a goal for their
+  career at large: a later reader takes a goal as where they want to go.
 - Storing those answers changed nothing else in the record.
