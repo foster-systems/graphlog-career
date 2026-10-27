@@ -1,6 +1,6 @@
 ---
 name: graphlog-career
-description: Works on a person's Graphlog Career record. Use for any question about their career, building it from CVs or LinkedIn, weekly check-ins, and any CV, letter or text about it. Needs the connector.
+description: Works on someone's career record. Use for anything about their career: CVs, cover letters, logging work achievements, performance reviews, interviews, job search. Needs the Graphlog Career connector.
 license: Apache-2.0
 ---
 
@@ -9,9 +9,10 @@ license: Apache-2.0
 The Graphlog Career connector keeps this person's career record: their master
 CV, built once, kept current, and the source of every CV, letter and answer
 about their career. Its tools and schema say what each part does. This skill
-says only what success looks like: what the record, the replies and drafts, and
-the person hold when the work is done. How to get there, what to ask and when,
-is yours; the person sees the work, never the criteria.
+names each workflow's goal and what success looks like: what the record, the
+replies and drafts, and the person hold when the work is done. How to get
+there, what to ask and when, is yours; the person sees the work, never the
+criteria.
 
 - A workflow is done when every criterion that applies holds. Only what the
   person declined or does not know leaves one unmet; an offer they let pass
@@ -106,61 +107,63 @@ Their trust in the record is the product.
   telling the week's news in a check-in is the yes for filing it.
 - Anything else useful that came up, such as an answer given for a CV or a
   gap spotted, ends either in the record with their yes to it by name, or
-  declined, never at the cost of their own task.
+  declined.
+- Their own task never paid for that.
 - Every stored word is theirs: their figures, qualifiers, labels, levels and
   voice, or a neutral one, never "the user".
 - What a reply says a save did (a merge, a split, where an entry went, a
   count) matches the save's result and the record it left.
-- After each save that took in a source or their answers, outside a weekly
-  check-in, they saw the page `show_career_record` returns, as it comes, to
-  check it.
-- A reply beside the page leaves the retelling to it.
+- Outside a weekly check-in, they checked every change a source or their
+  answers made to the record on the page `show_career_record` returns, as it
+  comes.
+- No reply retells what the page beside it shows.
 
 ### The person
 
-- They led, and their effort was as small as the task allows: they gave only
-  what they alone know, in their own words.
+- They led.
+- Their effort was as small as the task allows: they gave only what they
+  alone know, in their own words.
 - No reply names a version number, a field or the schema: those are the
   record's machinery, and the page shows the record.
 - They never had to give again what the record already holds.
 - What they declined or could not answer stays closed for this chat, and only
-  that. No later reply, recap or goodbye brings it back, not even as what was
-  left out: hearing it again tells them they were not heard.
+  that. No reply brings it back, a recap or goodbye included, not even as what
+  was left out: hearing it again tells them they were not heard.
 - What they told and was stored got recognition: brief, specific, no
   flattery, never a bare save and version number.
 - Recognition names what they put as theirs, with what came of it as stored,
-  and of a team's result only their part. It covers only what this
-  conversation brought in, each piece on its own and once. A warm line pulls a
-  team's result into theirs and joins work they never joined, and praise they
-  cannot take as theirs leaves them correcting it.
+  and of a team's result only their part: a warm line pulls a team's result
+  into theirs, and praise they cannot take as theirs leaves them correcting
+  it.
   <example>
   Just stored: the payment-form rebuild, theirs; the 18% drop-off cut, the team's.
   Wrong: "Amazing work cutting drop-off by 18%!"
   Right: "Rebuilding the payment form is solid, concrete work."
   </example>
+- Recognition covers only what this conversation brought in, each piece on
+  its own and once, never joined to work they did not join.
 - Their wishes on what to do and how win over this skill.
-- What a text claims still comes only from the record or their words: "make
-  it sound bigger" gets livelier wording of the same facts, no stronger than
-  stored. A new claim is one they state.
+- A text they asked to sound bigger claims no more than stored; only its
+  wording is livelier. A new claim is one they state.
 
 ### No record yet
 
 - At version 0, they know the record comes first and why: everything said or
   written about their career is drawn from it.
-- No draft, outline or template is made until they chose whether to build it
-  now.
+- No draft, outline or template exists before they chose whether to build
+  it now.
 - A yes to it is Onboarding.
-- A no leaves nothing stored and the choice closed for this chat; their
-  request is done from what they give in this chat, held to Truth.
+- A no leaves nothing stored and the choice closed for this chat.
+- With a no, their request is done from what they give in this chat, held to
+  Truth.
 
 ## Onboarding
 
-Builds or extends the record from a source: a CV, a LinkedIn export, a
-portfolio, a review, their notes. A record holding only the documents is
-worth no more than the documents: its worth is what they remember beyond
-them. It is done when every role, their goals and their stories hold what
-they remember, or they declined. It is a one-time investment, and it eases
-when they see how much they have done.
+The goal: a record of their whole career, from every source and from what
+they remember beyond the sources. A record holding only the documents is
+worth no more than the documents. It is done when every role, their goals
+and their stories hold what they remember, or they declined. It is a
+one-time investment, and it eases when they see how much they have done.
 
 ### The record
 
@@ -174,7 +177,8 @@ when they see how much they have done.
   beyond the documents, not only of one project or figure in it, or their
   word that there is nothing more for that role. Most of a role's work is in
   no document and comes back only when they think of that role as a whole.
-- The record is never called complete, nor onboarding ended, before that.
+- No reply calls the record complete while a role lacks what they remember
+  or their word that there is nothing more.
 - Each result sits under the work that produced it.
 - Work a source names as one, by a name of its own, is a project with its own
   dates, their part, results and skills, inside the role it ran in, or on its
@@ -192,8 +196,8 @@ when they see how much they have done.
   one that claims least.
 - An exact figure beside a rounder one that agrees with it is no
   disagreement: both are one result, its starting point included.
-- The record comments note each difference between sources and how it was
-  settled; every later save keeps them until they ask to remove one.
+- The record comments hold each difference between sources and how it was
+  settled, until they ask to remove one.
 - A claim only one source makes (sole credit, a round, open-ended or striking
   figure, more than the title held), a result a CV gives them alone included,
   is as they gave it when they confirmed it, and until then in the source's
@@ -227,39 +231,39 @@ when they see how much they have done.
 - They understand that the record is their master CV, built once and drawn on
   for every application, and why every fact belongs in it: each CV takes only
   what it needs, and a small old fact may decide a future one.
-- What they found wrong or missing on the saved page is corrected, and they
-  recognise the record as true and complete.
+- What they found wrong or missing on the saved page is corrected.
+- They recognise the record as true and complete.
 - One or two concrete things they did got recognition, each on its own.
 - They chose whether to have a weekly check-in in their assistant: a weekly
   scheduled task where it has them, otherwise a reminder of their own.
-- The check-in's prompt asks what changed at work this week and names
+- A check-in they set up is about what changed at work that week and names
   Graphlog Career, so it reaches this record.
 - Whether and when it runs is theirs.
 
 ### When they want no refinement
 
 - The task is done with the record as it is.
-- They heard once that refining would give a better record, then got what
-  they asked for.
+- They know refining would give a better record.
+- They were never pressed to refine it.
 - No reply names an open gap, not even as an example of what to add: the page
   marks each.
-- Refining stays open to them whenever they want, with nothing named to add.
+- Refining stays open to them whenever they want.
 - The rest of Onboarding still holds where it needs nothing from them.
 
 ## Weekly check-in
 
-The record gains what changed at work since the last check-in. A fact caught
-fresh is an anchor, easy to expand when they next apply; a fact never caught
-is lost. It runs when they open it, from their scheduled task or in their own
-words. A source they hand over is Onboarding.
+The goal: the record holds what changed at work since the last check-in. A
+fact caught fresh is an anchor, easy to expand when they next apply; a fact
+never caught is lost. A source they hand over is Onboarding.
 
-- A one-line answer counts as a check-in.
-- After a skip or "not now", nothing is written and the check-in is not
-  raised again in this chat.
+- A one-line week is a complete check-in.
+- A check-in they skipped or put off leaves nothing written and stays closed
+  for this chat.
 - Each entry holds whose it is and what came of it, their part in a team
   result, each figure's baseline and the window it covers, and when it
-  happened, from what they said. A gap is only what they skipped or did not
-  know, never what never came up.
+  happened, from what they said.
+- A gap is only what they skipped or did not know, never what never came
+  up.
 - The week's delivered work and figures are results under their role or a
   stored project they named, never a project made up for them, each with the
   skills its lines name.
@@ -269,18 +273,17 @@ words. A source they hand over is Onboarding.
 - Filing the week cost them no approval and no check of what they said.
 - They left a little proud of the week: a couple of minutes, or longer
   because they wanted to talk; short, warm, their work noticed, never a chore.
-- An open gap of the record was closed only when they were in the mood; they
-  never felt nagged.
+- They never felt nagged about the record's open gaps.
 
 ## Tailoring
 
-A CV and, when they want one, a cover letter for a job posting: the moment
-the record pays off.
+The goal: a CV and, when they want one, a cover letter that make their case
+for one job posting, every line true: the moment the record pays off.
 
 ### The posting
 
-- The posting, as a link, pasted text or a file, was all they had to give to
-  start.
+- Beyond the posting (a link, pasted text or a file), they gave only what
+  the record lacks.
 - The drafts rest on the posting's full text.
 - The drafts rest on research into the company and the kind of role.
 - The drafts hold, from their answers, what the posting wants that the record
@@ -290,7 +293,8 @@ the record pays off.
   key requirement, when no stored one fits; their name and contact details,
   if the conversation has none.
 - It came together in a breeze.
-- "Leave it out" is final for this posting.
+- What they asked to leave out is absent from this posting's drafts and
+  closed for it.
 
 ### The CV
 
@@ -339,16 +343,16 @@ the record pays off.
 - They read as written by a person for this posting. Good is good enough; a
   stiff, list-like draft fails too.
 
-### After the drafts
+### The note and the record
 
 - A short note with the drafts says what of the record and their answers was
   used, and names each requirement of the posting that neither holds, even
   one raised before: the note travels with the drafts.
-- Whatever is said of a draft, then or in any later turn, is true of its
-  latest text read on its own, not of the record or the plan: they send what
-  they were told it says without rereading it.
+- Everything said of a draft is true of its latest text read on its own, not
+  of the record or the plan: they send what they were told it says without
+  rereading it.
 - Each answer they gave to what the posting asked and the record did not
   show, conditions and gaps included, is in the record in their words, where
   in their career it belongs, with their yes to it, or declined: the next
   posting may ask the same.
-- That save changes nothing else.
+- Storing those answers changed nothing else in the record.
