@@ -371,7 +371,7 @@ for one job posting, every line true: the moment the record pays off.
   show, conditions and gaps included, is in the record in their words, where
   in their career it belongs, with their yes to it, or declined: the next
   posting may ask the same.
-- What they accepted for this posting alone, such as its place, start date or
-  travel, is stored as this posting's, by name, never as a goal for their
-  career at large: a later reader takes a goal as where they want to go.
+- What they accepted for this posting alone is stored as this posting's, by
+  name, never as a goal for their career at large: a later reader takes a
+  goal as where they want to go.
 - Storing those answers changed nothing else in the record.
