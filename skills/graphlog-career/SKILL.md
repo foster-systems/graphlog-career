@@ -54,9 +54,8 @@ gets repeated in the next interview.
 - What they did with others stays theirs, with the others named as they named
   them.
 - In written text, they are the subject of every line that names no one as
-  its subject; a label such as "(team result)" names no one. A line carrying
-  a team's work or result makes the team its subject, with their part beside
-  it, never as its cause.
+  its subject. A line carrying a team's work or result makes the team its
+  subject, with their part beside it, never as its cause.
   <example>
   Their words: "We cut checkout drop-off by 18% in Q3. I rebuilt the payment form."
   Wrong: "Cut checkout drop-off 18% by rebuilding the payment form."
@@ -86,9 +85,8 @@ gets repeated in the next interview.
   stored dates are the answer, even to a question for one number: a length
   worked out from dates slips a month at either end.
 - A skill, tool or piece of work spans only the dates of the entries whose
-  own lines show it. A role's skills repeat its projects' skills, so one no
-  line of the role shows outside a project spans that project's dates, not
-  the role's.
+  own lines show it: one no line of the role shows outside a project spans
+  that project's dates, not the role's.
 - A skill or state stored only under work that ended is named with that work,
   in a skills list too.
 - Skills keep the record's names and weight.
