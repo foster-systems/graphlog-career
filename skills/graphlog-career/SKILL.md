@@ -43,15 +43,20 @@ gets repeated in the next interview.
 - A number, date or detail nobody gave is never filled in: it is left out or
   stored as a gap.
 - Nothing is inferred from a title, a remit or a neighbouring entry.
+- A title or role is theirs only where they or the record give it, and only
+  for the work it is given for: running a piece of work is no title.
 - What they put as "I", "my" or "mine" is theirs.
-- Work "we", "our" or a team delivered is the team's, and their part is only
-  what they name. With none named, none is stored: the team's work written as
-  their part claims what others did.
+- Work "we", "our" or a team delivered is the team's, wherever the record
+  holds it, a description included, and in every line of every text: a
+  summary, a skills line and a record comment too. Their part is only what
+  they name. With none named, none is stored or written: the team's work
+  written as their part claims what others did.
 - What they did with others stays theirs, with the others named as they named
   them.
-- In written text, they are the subject of every line that names no one. A
-  line carrying a team's result makes the team the subject of the outcome,
-  with their part beside it, never as its cause.
+- In written text, they are the subject of every line that names no one as
+  its subject; a label such as "(team result)" names no one. A line carrying
+  a team's work or result makes the team its subject, with their part beside
+  it, never as its cause.
   <example>
   Their words: "We cut checkout drop-off by 18% in Q3. I rebuilt the payment form."
   Wrong: "Cut checkout drop-off 18% by rebuilding the payment form."
@@ -80,6 +85,10 @@ gets repeated in the next interview.
   counts none, such as the time at one employer across several roles, the
   stored dates are the answer, even to a question for one number: a length
   worked out from dates slips a month at either end.
+- A skill, tool or piece of work spans only the dates of the entries whose
+  own lines show it. A role's skills repeat its projects' skills, so one no
+  line of the role shows outside a project spans that project's dates, not
+  the role's.
 - A skill or state stored only under work that ended is named with that work,
   in a skills list too.
 - Skills keep the record's names and weight.
