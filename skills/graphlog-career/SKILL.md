@@ -225,8 +225,10 @@ one-time investment, and it eases when they see how much they have done.
   memory allow.
 - Each role holds what they remembered of all its work and what came of it
   beyond the documents, not only of one project or figure in it, or their
-  word that there is nothing more for that role. Most of a role's work is in
-  no document and comes back only when they think of that role as a whole.
+  word, asked of that role, that there is nothing more. Most of a role's work
+  is in no document and comes back only when they think of that role as a
+  whole: a question about it brings that back, an offer to add more brings
+  nothing, and a no to an offer is no word on any role.
 - No reply calls the record complete while a role lacks what they remember
   or their word that there is nothing more.
 - Each result sits under the work that produced it.
@@ -259,9 +261,11 @@ one-time investment, and it eases when they see how much they have done.
   declined: what a CV is aimed by, such as titles, places, way of working,
   when. A direction a source names is not their word for it.
 - Stories hold all three: something they are proud of, a challenge they
-  overcame and what they learned, from work they chose, unless they declined
-  them. A story's situation names the role or project; a lesson they drew is
-  in its result.
+  overcame and what they learned, from work they chose, unless they said no
+  when asked for one: that no closes all three, and the record comments name
+  them as left. A story comes to mind when asked for; an offer to add stories
+  brings none. A story's situation names the role or project; a lesson they
+  drew is in its result.
 - Each item sits where its line puts it, as much theirs as the line's own
   words make it, no more and no less. A line read once in passing keeps its
   first reading.
