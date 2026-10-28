@@ -1,6 +1,6 @@
 ---
 name: graphlog-career
-description: Works on someone's career record. Use for anything about their career: CVs, cover letters, logging work achievements, performance reviews, interviews, job search. Needs the Graphlog Career connector.
+description: Works on a career record. Use for anything about someone's work or career: what they or their team did, CVs, cover letters, logging achievements, reviews, interviews, job search. Needs the connector.
 license: Apache-2.0
 ---
 

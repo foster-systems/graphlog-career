@@ -1,7 +1,7 @@
 {
   "name": "graphlog-career",
   "displayName": "Graphlog Career",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "description": "Your career record in your AI assistant: build it once from your CVs, keep it current with weekly check-ins, and get CVs and cover letters tailored to each job from it.",
   "author": { "name": "Graphlog", "email": "support@graphlog.ai", "url": "https://graphlog.ai" },
   "homepage": "https://graphlog.ai",
