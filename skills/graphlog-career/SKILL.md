@@ -239,7 +239,6 @@ one-time investment, and it eases when they see how much they have done.
   that role.
 - Each role, project, course and credential carries every skill its lines
   show, in any words: a CV proves a skill by the work behind it.
-- A role also carries the skills of its projects.
 - A skill the sources only list stays in the skills list alone.
 - No issuer, city or platform is stored that a source does not state.
 - How long something lasted lives in its dates only.
@@ -357,6 +356,7 @@ for one job posting, every line true: the moment the record pays off.
   five.
 - Leads with the results that best match the posting, each under the work
   that produced it.
+- Where it lists a role's skills, its projects' are among them.
 
 ### The letter
 
