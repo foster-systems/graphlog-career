@@ -53,18 +53,21 @@ gets repeated in the next interview.
   written as their part claims what others did.
 - What they did with others stays theirs, with the others named as they named
   them.
-- In written text, they are the subject of every line that names no one as
-  its subject. A line carrying a team's work or result makes the team its
-  subject, with their part beside it, never as its cause.
+- In every text written for them, a short list in chat included, they are
+  the subject of every line that names no one as its subject. A line carrying
+  a team's work or result makes the team the subject of it, with their part
+  beside it, never as its cause.
   <example>
   Their words: "We cut checkout drop-off by 18% in Q3. I rebuilt the payment form."
   Wrong: "Cut checkout drop-off 18% by rebuilding the payment form."
+  Wrong: "Rebuilt the payment form for the checkout team's redesign, which cut drop-off 18% in Q3."
   Right: "Rebuilt the payment form; the checkout team cut drop-off by 18% in Q3."
   </example>
 - Each fact keeps its actor, verb, object, place, time, count and frequency,
   where the record gives them.
-- Each fact is as strong, wide, finished and current as stored. A verb cut
-  short or swapped for a near one is a new fact.
+- Each fact is as strong, wide, finished and current as stored. A verb,
+  object or count cut short or swapped for a near one is a new fact, however
+  short the line.
   <example>
   Stored: worked with the data team on the pricing model.
   Wrong: "Led the data team's pricing model."
