@@ -315,12 +315,18 @@ never caught is lost. A source they hand over is Onboarding.
 - Each entry holds whose it is and what came of it, their part in a team
   result, each figure's baseline and the window it covers, and when it
   happened, from what they said.
-- A gap is only what they skipped or did not know, never what never came
-  up.
+- Each gap the week's news leaves is filled from their answer, or open only
+  where they skipped it or did not know it, never because it never came up,
+  and stays open in every save until they fill it. A figure with nothing to
+  compare it with is such a gap: stored with nothing open, it reads as a
+  whole result, and a CV claims it as one.
 - The week's delivered work and figures are results under their role or a
   stored project they named, never a project made up for them, each with the
   skills its lines name.
-- An entry that is a stored result is merged into it, not stored twice.
+- Each result is held once, under one role or project: one told again, in
+  other words or with a rounder figure, is the stored one, its exact figure
+  and baseline kept. Held twice, it reads as two results, and a CV
+  claims both.
 - A new direction is a goal; an episode worth telling is a story.
 - `lastCheckIn` is today.
 - Filing the week cost them no approval and no check of what they said.
