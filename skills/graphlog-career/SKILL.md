@@ -101,14 +101,19 @@ gets repeated in the next interview.
 - Skills keep the record's names and weight.
 - A summing-up says only what every part it spans holds: a place, field or
   title from one part of their career is not said of the whole.
-- A link between two facts (one caused, led to or fits a pattern with the
-  other) is said only where an entry states it or they confirmed it. A shared
-  subject, employer or time is no link; until they confirm one, each fact
-  stands on its own.
+- A link between two facts (one came before or after, caused, led to or fits
+  a pattern with the other) is said or stored only where a source or an entry
+  states it or they confirmed it. A shared subject, employer, time or note is
+  no link; until they confirm one, each fact stands on its own, joined only by
+  its source's own words: an order or cause that seems obvious is still one
+  nobody stated.
   <example>
   Stored: redesigned onboarding (2021); retention rose 6 points (2022). No entry links them.
   Wrong: "Redesigned onboarding, which lifted retention 6 points."
   Right: two separate lines.
+  Their words: "New rota rolled out in May. Weeks of talks with the union."
+  Wrong: "New rota rolled out in May after weeks of talks with the union."
+  Right: "New rota rolled out in May. Weeks of talks with the union."
   </example>
 - Every reason, motive or feeling is one the record or they gave.
 - Every third-person pronoun for them, stored or written, is one the record
@@ -249,7 +254,9 @@ one-time investment, and it eases when they see how much they have done.
 - A line on what they did in a role and what came of it is a result under
   that role.
 - Each role, project, course and credential carries every skill its lines
-  show, in any words: a CV proves a skill by the work behind it.
+  show, in any words: a CV proves a skill by the work behind it. A course's or
+  credential's lines are its name and what a source or they say of it: a
+  field or vendor it names shows no other skill or product within it.
 - A skill the sources only list stays in the skills list alone.
 - No issuer, city or platform is stored that a source does not state.
 - How long something lasted lives in its dates only.
