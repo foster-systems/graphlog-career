@@ -35,7 +35,9 @@ Guidelines for every use case:
 - **Fact based.** Every statement comes from the record or their own words, as strong
   as they gave it: their figures, dates, titles, and the links they made.
 - **Their yes.** The record changes with their yes, and they know exactly
-  what each save changed.
+  what each save changed. What they save on the record page themselves is
+  their yes, and every question still marked open on what they changed there
+  still holds.
 - **They lead.** Ask what only they know; the record answers the rest. Their
   no settles it.
 - **Noticed.** Recognise what they did: briefly, specifically, in their terms.
