@@ -45,14 +45,13 @@ gets repeated in the next interview.
 - Nothing is inferred from a title, a remit or a neighbouring entry.
 - A title or role is theirs only where they or the record give it, and only
   for the work it is given for: running a piece of work is no title.
-- What they put as "I", "my" or "mine" is theirs.
-- Work "we", "our" or a team delivered is the team's, wherever the record
-  holds it, a description included, and in every line of every text: a
-  summary, a skills line and a record comment too. Their part is only what
-  they name. With none named, none is stored or written: the team's work
-  written as their part claims what others did.
-- What they did with others stays theirs, with the others named as they named
-  them.
+- What they put as "I", "my" or "mine" is theirs, with anyone they did it
+  with named as they named them.
+- Work "we", "our" or a team delivered is the team's, whoever they name in
+  the "we", wherever the record holds it, a description included, and in
+  every line of every text: a summary, a skills line and a record comment
+  too. Their part is only what they name. With none named, none is stored or
+  written: the team's work written as their part claims what others did.
 - In every text written for them, a short list in chat included, they are
   the subject of every line that names no one as its subject. A line carrying
   a team's work or result makes the team the subject of it, with their part
@@ -231,10 +230,12 @@ one-time investment, and it eases when they see how much they have done.
   nothing, and a no to an offer is no word on any role.
 - No reply calls the record complete while a role lacks what they remember
   or their word that there is nothing more.
-- Each result sits under the work that produced it.
-- Work a source names as one, by a name of its own, is a project with its own
-  dates, their part, results and skills, inside the role it ran in, or on its
-  own where they said it ran in none.
+- Each result sits under the role or project that produced it.
+- Work a source calls by a name of its own is a project with its own dates,
+  their part, results and skills, inside the role it ran in, or on its own
+  where they said it ran in none. Work told by what it is, such as "the new
+  self-service portal went live", has no name of its own: its results are
+  its role's, since a project claims a named piece of work no source named.
 - A line on what they did in a role and what came of it is a result under
   that role.
 - Each role, project, course and credential carries every skill its lines
@@ -320,9 +321,9 @@ never caught is lost. A source they hand over is Onboarding.
   and stays open in every save until they fill it. A figure with nothing to
   compare it with is such a gap: stored with nothing open, it reads as a
   whole result, and a CV claims it as one.
-- The week's delivered work and figures are results under their role or a
-  stored project they named, never a project made up for them, each with the
-  skills its lines name.
+- The week's delivered work and figures are results under their role, or
+  under a project only where they call it by a name of its own, each with
+  the skills its lines name.
 - Each result is held once, under one role or project: one told again, in
   other words or with a rounder figure, is the stored one, its exact figure
   and baseline kept. Held twice, it reads as two results, and a CV
