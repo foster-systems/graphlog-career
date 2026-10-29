@@ -111,6 +111,9 @@ gets repeated in the next interview.
   Right: two separate lines.
   </example>
 - Every reason, motive or feeling is one the record or they gave.
+- Every third-person pronoun for them, stored or written, is one the record
+  or they gave; without one, a line uses their name or no actor: a name tells
+  no pronoun.
 
 ### Consent
 
