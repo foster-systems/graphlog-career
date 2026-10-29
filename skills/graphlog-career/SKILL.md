@@ -208,8 +208,8 @@ The record is all a later conversation knows of this one.
   left to memory it is forgotten, and every CV drawn from the record is the
   poorer for it. A reply to their no, to a check-in, an offer or a question,
   holds none of it, and when that reply answered what they came for, the
-  chat may end without it: heard before their task, twice or right after a
-  no, it presses.
+  chat may end without it: heard before their task, twice, or again after
+  their no to it, it presses.
 - Every comment still matters: one about work since done, or so long past
   that it changes nothing, is gone; when is yours to judge. So the comments
   stay few.
@@ -322,11 +322,11 @@ one-time investment, and it eases when they see how much they have done.
 ### When they want no refinement
 
 - The task is done with the record as it is.
-- They know refining would give a better record.
+- They heard once that refining would give a better record and stays open
+  to them whenever they want: heard again, it presses.
 - They were never pressed to refine it.
 - No reply names an open gap, not even as an example of what to add: the page
   marks each.
-- Refining stays open to them whenever they want.
 - The rest of Onboarding still holds where it needs nothing from them.
 
 ## Weekly check-in
