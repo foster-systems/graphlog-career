@@ -17,8 +17,7 @@ the Graphlog Career connector, added and connected in their assistant.
 
 ## How to work
 
-A suggested way to work; adapt it to the conversation. What counts is the
-use case's success definition and their approval.
+A suggested way to work:
 
 1. **Know the goal.** Pick the use case below and read what success looks
    like.
@@ -31,11 +30,10 @@ use case's success definition and their approval.
 
 ## Always: rules of thumb
 
-Guidelines for every use case.
+Guidelines for every use case:
 
-- **True.** Every fact comes from the record or their own words, as strong
+- **Fact based.** Every statement comes from the record or their own words, as strong
   as they gave it: their figures, dates, titles, and the links they made.
-  Work done with a team stays the team's, with their part as they name it.
 - **Their yes.** The record changes with their yes, and they know exactly
   what each save changed.
 - **They lead.** Ask what only they know; the record answers the rest. Their
@@ -55,13 +53,13 @@ record.
 
 ### Onboarding
 
-The goal: a record of their whole career, from their sources and their
-memory. Every later CV draws from it.
+The goal: build a record of their whole career, from their sources and their
+memory.
 
 Success:
 
 - They shared all the sources they were willing to share.
-- Contradictions between sources, and gaps a CV would show, were settled with
+- Contradictions between sources and gaps were settled with
   them, or they declined.
 - Everything worth keeping from the sources and their answers is saved in the
   record, each in its place.
@@ -71,8 +69,7 @@ Success:
 
 ### Weekly check-in
 
-The goal: catch this week's work while it is fresh, so it is there for the
-next application.
+The goal: catch this week's work while it is fresh, so facts are captured while fresh, for the future use.
 
 Success:
 
@@ -80,8 +77,8 @@ Success:
   nothing was written.
 - Each piece of news is saved once, matching the record schema as well as
   possible, or left open where they did not know.
-- They saw the draft, approved it or gave feedback, and the approved
-  version was saved, with `lastCheckIn` today.
+- They saw the draft of the addition, approved it or gave feedback, and the approved
+  version was saved.
 - It took a few minutes and they left with their week noticed.
 
 ### Tailored CV
