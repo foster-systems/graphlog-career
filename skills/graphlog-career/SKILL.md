@@ -54,13 +54,16 @@ gets repeated in the next interview.
   written: the team's work written as their part claims what others did.
 - In every text written for them, a short list in chat included, they are
   the subject of every line that names no one as its subject. A line carrying
-  a team's work or result makes the team the subject of it, with their part
-  beside it, never as its cause.
+  a team's work or result makes the team the subject of it, a letter's "I"
+  included, with their part beside it, never as its cause. A later line
+  naming the split does not take back an "I" before it.
   <example>
   Their words: "We cut checkout drop-off by 18% in Q3. I rebuilt the payment form."
   Wrong: "Cut checkout drop-off 18% by rebuilding the payment form."
   Wrong: "Rebuilt the payment form for the checkout team's redesign, which cut drop-off 18% in Q3."
+  Wrong: "I cut checkout drop-off by 18% in Q3 and rebuilt the payment form."
   Right: "Rebuilt the payment form; the checkout team cut drop-off by 18% in Q3."
+  Right: "Our checkout team cut drop-off by 18% in Q3; I rebuilt the payment form."
   </example>
 - Each fact keeps its actor, verb, object, place, time, count and frequency,
   where the record gives them.
@@ -347,11 +350,14 @@ for one job posting, every line true: the moment the record pays off.
 - The drafts rest on the posting's full text.
 - The drafts rest on research into the company and the kind of role.
 - The drafts hold, from their answers, what the posting wants that the record
-  does not show: nice-to-haves and the job's conditions included (location,
-  office days, travel, contract, hours, start date); their reason for
-  applying, unless a stored goal gives it for this posting; a story for the
-  key requirement, when no stored one fits; their name and contact details,
-  if the conversation has none.
+  does not show: nice-to-haves; their reason for applying, unless a stored
+  goal gives it for this posting; a story for the key requirement, when no
+  stored one fits; their name and contact details, if the conversation has
+  none.
+- Every draft rests on their answer to each condition the posting states that
+  the record does not settle (such as place, office days, travel, right to
+  work, permanent or fixed-term, full or part time, on-call, start date), an
+  ordinary one too: only they know which one they would turn the job down for.
 - It came together in a breeze.
 - What they asked to leave out is absent from this posting's drafts and
   closed for it.
@@ -386,11 +392,9 @@ for one job posting, every line true: the moment the record pays off.
   Truth: the summary, the skills list, each summing-up, bridge to the posting
   and reason included. Prose written toward a posting drifts toward its
   words, and they must defend every line in the interview.
-- Each sentence that carries a result matches that result's `whose`.
-- A later sentence naming the split does not take back an "I" before it.
 - A project they worked in is told through what they did in it.
-- The letter keeps a team's work the team's, and separate pieces of work
-  apart, though one voice and one thread pull them together.
+- The letter keeps separate pieces of work apart, though one voice and one
+  thread pull them together.
 - The posting's wording describes them only where the record or their
   answers hold the same, in their scope and as often as they say.
 - A requirement they meet in part is claimed for that part; a limit they gave
@@ -413,9 +417,11 @@ for one job posting, every line true: the moment the record pays off.
   of the record or the plan: they send what they were told it says without
   rereading it.
 - Each answer they gave to what the posting asked and the record did not
-  show, conditions and gaps included, is in the record in their words, where
-  in their career it belongs, with their yes to it, or declined: the next
-  posting may ask the same.
+  show is in the record in their words, where in their career it belongs,
+  with their yes to that answer by name, or declined: a condition, a right to
+  work, a notice period, a requirement they do not meet and an answer that
+  fits no field or holds for this posting alone included. The next posting
+  may ask the same.
 - What they accepted for this posting alone is stored as this posting's, by
   name, never as a goal for their career at large: a later reader takes a
   goal as where they want to go.
