@@ -89,11 +89,15 @@ gets repeated in the next interview.
   counts none, such as the time at one employer across several roles, the
   stored dates are the answer, even to a question for one number: a length
   worked out from dates slips a month at either end.
-- A skill, tool or piece of work spans only the dates of the entries whose
-  own lines show it: one no line of the role shows outside a project spans
-  that project's dates, not the role's.
-- A skill or state stored only under work that ended is named with that work,
-  in a skills list too.
+- A piece of work spans only the dates of the entries whose own lines show
+  it: one no line of the role shows outside a project spans that project's
+  dates, not the role's.
+- A skill or tool has a time span only where the record or they give one for
+  the skill itself: the work that shows it dates that work, never the skill,
+  and work that ended makes it neither past nor current: either is a claim
+  nobody made. What they say of a skill in this chat wins over what the
+  record suggests.
+- A state stored only under work that ended is named with that work.
 - Skills keep the record's names and weight.
 - A summing-up says only what every part it spans holds: a place, field or
   title from one part of their career is not said of the whole.
