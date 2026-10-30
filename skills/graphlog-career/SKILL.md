@@ -49,6 +49,7 @@ Guidelines for every use case:
 | share a CV, LinkedIn or notes, or have no record yet | Onboarding |
 | tell what happened at work, or open their weekly check-in | Weekly check-in |
 | share a job posting, or ask for a CV or cover letter | Tailored CV |
+| send an application, hear back about one, or ask where they stand | Applications |
 
 Anything else, a question, a correction or an export, is answered from the
 record.
@@ -98,3 +99,26 @@ Success:
   posting. The letter makes the case with a few things they did.
 - They reviewed the drafts, and if they gave any feedback, it was applied.
 - They approved the final drafts.
+- When they send it, the application is kept, as Applications says.
+
+### Applications
+
+The goal: they know where each application stands, what happened, and what
+they sent.
+
+Success:
+
+- Each application they send is kept: the posting, the CV and letter as sent,
+  the salary or rate they named.
+- They agreed to what was kept or changed, and know what each save did.
+- A reply, an interview or feedback they tell about is noted on its
+  application, dated, and its status is current.
+- Asked about one application, they see its history: each update and when it
+  happened.
+- Once they accept an offer, each application still open is withdrawn or
+  kept, as they chose.
+- When they come back about a company or a role, they see what they sent.
+- Asked where they stand, they see their applications as one table: company,
+  role, date, status, salary and the latest update, with those that got no
+  response marked.
+- Applications they kept elsewhere came in as they gave them, nothing invented.

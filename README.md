@@ -8,10 +8,11 @@ from the whole truth of your career. $20 a year
 
 Graphlog Career comes in two parts:
 
-- **The connector** keeps your career record and gives your assistant the
-  tools to read and update it. It works on its own.
+- **The connector** keeps your career record and the job applications you
+  send, and gives your assistant the tools to read and update them. It works
+  on its own.
 - **The skill**, in this repository, tells your assistant what a good
-  record, weekly check-in and tailored CV look like. With it, you get the
+  record, weekly check-in, tailored CV and kept application look like. With it, you get the
   best out of Graphlog.
 
 ## Install in Claude
