@@ -52,7 +52,9 @@ Guidelines for every use case:
 | send an application, hear back about one, or ask where they stand | Applications |
 
 Anything else, a question, a correction or an export, is answered from the
-record.
+record. When they ask to see their record, call `show_career_record`. That is
+all it takes: they open, check and edit their record in the view it gives
+them.
 
 ### Onboarding
 
@@ -66,7 +68,8 @@ Success:
   them, or they declined.
 - Everything worth keeping from the sources and their answers is saved in the
   record, each in its place.
-- They reviewed the record page, and if they gave any feedback, it was applied.
+- They checked the record `show_career_record` shows them, and if they gave
+  any feedback, it was applied.
 - They approved the final record.
 - They chose whether to set up a weekly check-in in their assistant.
 
