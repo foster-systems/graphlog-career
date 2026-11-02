@@ -12,10 +12,10 @@ Graphlog Career comes in two parts:
   send, and gives your assistant the tools to read and update them. It works
   on its own.
 - **The skill**, in this repository, tells your assistant what a good
-  record, weekly check-in, tailored CV and kept application look like. With it, you get the
-  best out of Graphlog.
+  record, weekly check-in, tailored CV and kept application look like, and
+  how to guide you. With it, you get the best out of Graphlog.
 
-## Install in Claude
+## 1. Add Graphlog to Claude
 
 You need a Claude account with code execution on, which skills need:
 **Settings → Capabilities → Code execution and file creation**. Then pick the
@@ -29,15 +29,13 @@ steps for your plan; it takes about five minutes and no technical knowledge.
 3. Find **Graphlog Career** in the list and click **Install**. Turn on
    **Sync automatically**, so you always have the latest version.
 4. Open the plugin's **Connectors** tab and click **Connect** next to
-   Graphlog Career. A page opens: enter your email address and type the
-   six-digit code we send you. Your first sign-in creates your account.
+   Graphlog Career.
 
 ### Free
 
 1. **Add the connector.** Open
    [this link](https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=Graphlog%20Career&connectorUrl=https%3A%2F%2Fcareer.graphlog.ai%2Fmcp),
-   click **Add**, then **Connect**, and sign in with your email address and
-   the six-digit code we send you.
+   click **Add**, then **Connect**.
 2. **Download the skill:**
    [graphlog-career.zip](https://github.com/foster-systems/graphlog-career/releases/download/skill/graphlog-career.zip).
    Keep it zipped.
@@ -50,17 +48,38 @@ To update the skill later, download the file again and upload it the same way.
 If **Customize → Skills** shows no **+** or no **Upload a skill** on your
 plan, skip steps 2 and 3: the connector works on its own, without the skill.
 
-## Start
+## 2. Sign in and subscribe
 
-A new account subscribes while connecting: after your email code, **Continue
-to payment**, pay at Link's checkout, then **You're set**. A free code, if you
-were given one, goes in its field on the first page instead.
+**Connect** opens Graphlog's page. Enter your email address and type the
+six-digit code we send you; your first sign-in creates your account. Then
+**Continue to payment** and pay at Link's checkout, $20 a year. A free code,
+if you were given one, goes in its field on the first page instead.
+On **You're set**, **Continue to your assistant** takes you back to Claude.
 
-In a new chat, attach your CVs or LinkedIn profile and say
-**"Create my career record."** Your assistant builds it with you, stores
-only what you gave or agreed to, and shows you your whole career on one page.
+## 3. Start your career record
 
-Then, any time: paste a job posting and say **"Tailor my CV for this."**
+Open a new chat, attach what you have (old CVs, your LinkedIn profile saved
+as a PDF, performance reviews, certificates) and say:
+
+> Create my career record.
+
+Your assistant tells you what the record will do for you, reads everything,
+and asks about what your documents miss: your results, a story or two, where
+you want to go next. It shows you your whole career on one page to check,
+and saves only what you agree to. You build it once; every CV after draws on
+it.
+
+## Then just ask
+
+In your own words, any time. For example:
+
+- Paste a job posting: **"Tailor my CV for this."**
+- After a week at work: **"Here's what happened this week."**
+- **"Show my career record."**
+- **"I sent the application."** Later: **"Where do my applications stand?"**
+- **"Prepare me for my interview at …"**
+
+Not sure what to ask? **"What can Graphlog do for me?"**
 
 ## What it runs
 

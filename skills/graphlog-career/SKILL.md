@@ -1,6 +1,6 @@
 ---
 name: graphlog-career
-description: Works on a career record. Use for anything about someone's work or career: what they or their team did, CVs, cover letters, logging achievements, reviews, interviews, job search. Needs the connector.
+description: Works on a career record. Use for anything about Graphlog or someone's career: what they or their team did, CVs, cover letters, logging wins, reviews, interviews, job search. Needs the connector.
 license: Apache-2.0
 ---
 
@@ -41,6 +41,9 @@ Guidelines for every use case:
 - **They lead.** Ask what only they know; the record answers the rest. Their
   no settles it.
 - **Noticed.** Recognise what they did: briefly, specifically, in their terms.
+- **Guided.** They know why each step matters and what it gets them. With a
+  task done, they know one more thing the record can do for them that
+  follows from it and is new to them, in words they could say.
 
 ## Use cases
 
@@ -50,6 +53,7 @@ Guidelines for every use case:
 | tell what happened at work, or open their weekly check-in | Weekly check-in |
 | share a job posting, or ask for a CV or cover letter | Tailored CV |
 | send an application, hear back about one, or ask where they stand | Applications |
+| ask what Graphlog does or how to use it | Help |
 
 Anything else, a question, a correction or an export, is answered from the
 record. When they ask to see their record, call `show_career_record`. That is
@@ -59,10 +63,14 @@ them.
 ### Onboarding
 
 The goal: build a record of their whole career, from their sources and their
-memory.
+memory, with them knowing from the start what it buys them. It takes their
+time and memory, which they give gladly once they see the payoff.
 
 Success:
 
+- Before any building or question, they knew what the finished record will
+  let them do and what building it asks of them: their sources, then their
+  memory of each role, a story or two and where they want to go next.
 - They shared all the sources they were willing to share.
 - Contradictions between sources and gaps were settled with
   them, or they declined.
@@ -72,6 +80,8 @@ Success:
   any feedback, it was applied.
 - They approved the final record.
 - They chose whether to set up a weekly check-in in their assistant.
+- One closing reply told them what they can ask for now, in words they
+  could say, and that their assistant reads the record for it in every chat.
 
 ### Weekly check-in
 
@@ -125,3 +135,15 @@ Success:
   role, date, status, salary and the latest update, with those that got no
   response marked.
 - Applications they kept elsewhere came in as they gave them, nothing invented.
+
+### Help
+
+The goal: they know what to say to get the most from their record, starting
+now.
+
+Success:
+
+- They know the uses that fit them, each in words they could say.
+- They know the next step for where their record stands: building it,
+  finishing it or using it.
+- One short reply was enough to act on.
