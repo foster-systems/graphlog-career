@@ -52,26 +52,30 @@ plan, skip steps 2 and 3: the connector works on its own, without the skill.
 
 **Connect** opens Graphlog's page. Enter your email address and type the
 six-digit code we send you; your first sign-in creates your account. Your
-first week is free, with no card. A free code, if you were given one, goes in
-its field on the first page. On **You're set**, **Continue to your assistant**
-takes you back to Claude.
+first week is free, with no card. On **You're set**, **Continue to your
+assistant** takes you back to Claude.
 
 After the free week, Graphlog Career is $20 a year; we email you the link to
 subscribe. Until you do, your assistant can still read and export your record,
 but saves nothing new.
 
-## 3. Start your career record
+## 3. Say "Graphlog"
 
-Open a new chat, attach what you have (old CVs, your LinkedIn profile saved
-as a PDF, performance reviews, certificates) and say:
+Open a new chat and say:
 
-> Create my career record.
+> Graphlog
 
-Your assistant tells you what the record will do for you, reads everything,
-and asks about what your documents miss: your results, a story or two, where
-you want to go next. It shows you your whole career on one page to check,
-and saves only what you agree to. You build it once; every CV after draws on
-it.
+It's the one word to remember. Your assistant shows Graphlog's card: where
+your record stands and what to do next. Tap a button to copy its words, then
+paste them into your message and send.
+
+The first time, tap **Build my record** and attach what you have to that
+message: old CVs, your LinkedIn profile saved as a PDF, performance reviews,
+certificates. Your assistant tells you what the record will do for you, reads
+everything, and asks about what your documents miss: your results, a story or
+two, where you want to go next. It shows you your whole career on one page to
+check, and saves only what you agree to. You build it once; every CV after
+draws on it.
 
 ## Then just ask
 
@@ -83,7 +87,7 @@ In your own words, any time. For example:
 - **"I sent the application."** Later: **"Where do my applications stand?"**
 - **"Prepare me for my interview at …"**
 
-Not sure what to ask? **"What can Graphlog do for me?"**
+Not sure what to ask? Say **"Graphlog"**.
 
 ## What it runs
 
