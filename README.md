@@ -48,13 +48,17 @@ To update the skill later, download the file again and upload it the same way.
 If **Customize → Skills** shows no **+** or no **Upload a skill** on your
 plan, skip steps 2 and 3: the connector works on its own, without the skill.
 
-## 2. Sign in and subscribe
+## 2. Sign in
 
 **Connect** opens Graphlog's page. Enter your email address and type the
-six-digit code we send you; your first sign-in creates your account. Then
-**Continue to payment** and pay at Link's checkout, $20 a year. A free code,
-if you were given one, goes in its field on the first page instead.
-On **You're set**, **Continue to your assistant** takes you back to Claude.
+six-digit code we send you; your first sign-in creates your account. Your
+first week is free, with no card. A free code, if you were given one, goes in
+its field on the first page. On **You're set**, **Continue to your assistant**
+takes you back to Claude.
+
+After the free week, Graphlog Career is $20 a year; we email you the link to
+subscribe. Until you do, your assistant can still read and export your record,
+but saves nothing new.
 
 ## 3. Start your career record
 
