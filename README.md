@@ -3,7 +3,7 @@
 Your career record, kept by your AI assistant. Build it once from your old
 CVs and LinkedIn profile, keep it current with a two-minute weekly check-in,
 and get a CV and cover letter tailored to every job you apply for, written
-from the whole truth of your career. $20 a year
+from the whole truth of your career. $29 a year
 ([pricing](https://graphlog.ai/pricing)). More at [graphlog.ai](https://graphlog.ai).
 
 Graphlog Career comes in two parts:
@@ -55,7 +55,7 @@ six-digit code we send you; your first sign-in creates your account. Your
 first week is free, with no card. On **You're set**, **Continue to your
 assistant** takes you back to Claude.
 
-After the free week, Graphlog Career is $20 a year; we email you the link to
+After the free week, Graphlog Career is $29 a year; we email you the link to
 subscribe. Until you do, your assistant can still read and export your record,
 but saves nothing new.
 
